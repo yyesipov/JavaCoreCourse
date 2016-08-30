@@ -9,6 +9,5 @@ public class Solution {
         Bird sing = new Bird();
         sing.sing();
         System.out.println("I am Bird");
-
     }
 }
