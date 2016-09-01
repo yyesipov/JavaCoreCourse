@@ -9,4 +9,7 @@ public class Bird {
     public void sing() {
         System.out.println("I am singing");
     }
+    public void imBird() {
+        System.out.println( "I am Bird");
+    }
 }

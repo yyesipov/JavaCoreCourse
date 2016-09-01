@@ -9,7 +9,7 @@ public class Adder extends Arithmetic {
         this.result = result;
     }
 
-    public void compare() {
+    public void check() {
         if (getA() >= getB()) {
             result = true;
         } else result = false;

@@ -8,6 +8,8 @@ public class Solution {
         fly.fly();
         Bird sing = new Bird();
         sing.sing();
-        System.out.println("I am Bird");
+        Bird imBird = new Bird();
+        imBird.imBird();
+
     }
 }

@@ -7,7 +7,7 @@ public class Main {
         Arithmetic sum = new Arithmetic(a, b);
         sum.add();
         Adder w = new Adder(a, b, true);
-        w.compare();
+        w.check();
 
     }
 }
