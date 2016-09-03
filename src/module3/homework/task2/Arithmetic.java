@@ -11,7 +11,7 @@ public class Arithmetic {
 
     public void add() {
         int sum;
-        sum = this.a + this.b;
+        sum = getA() + getB();
         System.out.println("sum = " + sum);
     }
 
